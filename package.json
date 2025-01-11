@@ -1,14 +1,16 @@
 {
   "dependencies": {
     "lucide-react": "^0.471.0",
-    "react": "^19.0.0"
+    "react": "^19.0.0",
+    "react-scripts": "^5.0.0"
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  "homepage": "https://<Username>.github.io/<Repository-name>",
+  "homepage": "https://raghavendra7533.github.io/<Repository-name>",
   "scripts":{
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build" 
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build"
   } 
 }
