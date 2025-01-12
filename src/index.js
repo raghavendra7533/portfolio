@@ -1,7 +1,7 @@
 // src/index.js
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './app'; // Ensure you have an App component
+import App from './app.tsx'; // Ensure you have an App component
 
 ReactDOM.render(
   <React.StrictMode>
