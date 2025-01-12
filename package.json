@@ -8,9 +8,9 @@
     "gh-pages": "^6.3.0"
   },
   "homepage": "https://raghavendra7533.github.io/portfolio",
-  "scripts":{
+  "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build"
-  } 
+  }
 }
