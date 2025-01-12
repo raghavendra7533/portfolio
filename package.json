@@ -7,7 +7,7 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  "homepage": "https://raghavendra7533.github.io/<Repository-name>",
+  "homepage": "https://raghavendra7533.github.io/portfolio",
   "scripts":{
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
